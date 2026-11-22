@@ -1,0 +1,107 @@
+id,lanac,naziv,adresa,grad,lat,lon,geo_status
+1,Bingo,Bingo City Center Sarajevo (Bingo Plus BCC),Džemala Bijedića 160,Sarajevo,43.850533,18.3535589,OK
+2,Bingo,Bingo Hipermarket 57,Džemala Bijedića 123,Sarajevo,43.8501846,18.36592,OK
+3,Bingo,Bingo City Center Ilidža,Butmirska cesta 14,Sarajevo,43.8291445,18.3116576,OK
+4,Bingo,Bingo (Kolodvorska / TC Intershop),Kolodvorska 12,Sarajevo,43.8546007,18.3854538,OK
+5,Bingo,Bingo (Merkur / Otoka),Gradačačka 1,Sarajevo,43.8484114,18.3677641,OK
+6,Bingo,Bingo Stup,Kurta Schorka,Sarajevo,43.8473616,18.3272354,OK
+7,Bingo,Bingo (Alta Shopping Centar),Bulevar 2 (Franc Lehar),Sarajevo,43.84936,18.3639591,OK
+8,Bingo,Bingo Grbavica,Hasana Brkića 4,Sarajevo,43.8499169,18.3915283,OK
+9,Bingo,Bingo (Alipašino Polje),Ive Andrića 13,Sarajevo,43.8438071,18.3484953,OK
+10,Bingo,Bingo Centar,Kranjčevićeva 23,Sarajevo,43.8584747,18.4037827,OK
+11,Bingo,Bingo Markale,Dženetića čikma 1,Sarajevo,43.8598458,18.4236129,OK
+12,Bingo,Bingo (Čekaluša),Čekaluša 36,Sarajevo,43.8616197,18.4182188,OK
+13,Bingo,Bingo (Malta),Malta 27,Sarajevo,43.852591,18.3819739,OK
+14,Bingo,Bingo (Merhemića trg),Merhemića trg 15,Sarajevo,43.8653727,18.4099236,OK
+15,Bingo,Bingo Palma,Aleja Lipa 55,Sarajevo,43.8510683,18.3827622,OK
+16,Bingo,Bingo Market (Boljakov Potok),Smaila Šikala 6,Sarajevo,43.8628281,18.3505396,OK
+17,Bingo,Bingo Minimarket 110,Adema Buće 24,Sarajevo,43.8552648,18.3659982,OK
+18,Bingo,Bingo (Tuzlanska),Tuzlanska bb,Sarajevo,43.8555073,18.3647881,OK
+19,Bingo,Bingo (Vojvode Radomira Putnika),Vojvode Radomira Putnika bb,Sarajevo,43.8170522,18.3559905,OK
+20,Bingo,Bingo City Center Tuzla,Mitra Trifunovića Uče 2,Tuzla,44.5322315,18.651961,OK
+21,Bingo,Bingo Hipermarket Sjenjak,Ismeta Mujezinovića,Tuzla,44.5325549,18.7040432,OK
+22,Bingo,Bingo Šićki Brod,M1.8 Šićki Brod,Tuzla,44.5236528,18.5931881,OK
+23,Bingo,Bingo Hipermarket Nova Pecara,Armije Republike Bosne i Hercegovine 13,Tuzla,44.536438061340164,18.69768136859372,MANUAL
+24,Bingo,Bingo Supermarket Stupine B10,Avenija Stupine B10,Tuzla,44.52994089117091,18.69468665140042,MANUAL
+25,Bingo,Bingo Supermarket Stupine B12,Avenija Stupine B12,Tuzla,44.53100295389847,18.692814722564375,MANUAL
+26,Bingo,Bingo Supermarket Slatina,Albina i Franje Herljevića 15,Tuzla,44.5423657,18.6670982,OK
+27,Bingo,Bingo Supermarket Luke,Dramar centar - Branilaca BiH 11,Tuzla,44.5314432,18.7078392,OK
+28,Bingo,Supermarket Bingo Plus,Džemala Bijedića 3,Tuzla,44.5340102,18.6914789,OK
+29,Bingo,Bingo Plus Ušće,Izeta Sarajlića bb,Tuzla,44.5283547,18.7046716,OK
+30,Bingo,Bingo Supermarket Slavinovići (PJ 56),Goste Lazarevića 12,Tuzla,44.5316141,18.7109123,OK
+31,Bingo,Bingo Supermarket Rudarska / Bingo 55,Rudarska 39,Tuzla,44.5387448,18.657392,OK
+32,Bingo,Bingo Supermarket Ciljuge,Trasa bb Kovači,Tuzla,44.4308025,18.6848363,OK
+33,Bingo,Bingo Mošnik,Gornji Mošnik 4,Tuzla,44.5351734,18.6652647,OK
+34,Bingo,Bingo Supermarket Zlokovac,Zlokovac bb,Tuzla,44.5288711,18.6892056,OK
+35,Bingo,Bingo Supermarket Tušanj,Hasana Brkića bb,Tuzla,44.5296247,18.7128851,OK
+36,Bingo,Bingo Supermarket Lipnica,Ozrenskog odreda 45 Lipnica,Tuzla,44.565798495625025,18.604032422567304,MANUAL
+37,Bingo,Bingo Minimarket Centar,Turalibegova 32,Tuzla,44.5364757,18.6787877,OK
+38,Bingo,Bingo MM Partizan,II tuzlanske brigade 7,Tuzla,44.53666728418732,18.68523376489334,MANUAL
+39,Bingo,Bingo (Armije RBiH 11),Armije Republike Bosne i Hercegovine 11,Tuzla,44.538558847598615,18.69675527186771,MANUAL
+40,Bingo,Bingo Irac,Krečanska,Tuzla,44.5383647,18.6579531,OK
+41,Bingo,Bingo (Rate Dugonjića 18),Rate Dugonjića 18,Tuzla,44.55249343515612,18.692319810923046,MANUAL
+42,Bingo,Minimarket Solina 2,Rate Dugonjića 5,Tuzla,44.5565239141726,18.69110977994496,MANUAL
+43,Bingo,Bingo PJ 107 (Novo naselje),Novo Naselje 25,Tuzla,44.5519228,18.6923302,OK
+44,Bingo,Bingo Miladije (PJ 84),Husinskih rudara 92,Tuzla,44.5289768,18.6428459,OK
+45,Bingo,Bingo PJ 108 Kula,16. muslimanske brigade 2,Tuzla,44.5327956,18.6781861,OK
+46,Bingo,Bingo PJ 40 Tuzlanka,Bosne Srebrene bb,Tuzla,44.5375988,18.6668729,OK
+47,Bingo,Minimarket Bingo Ši Selo,Nesiba Malkića 1,Tuzla,44.5277956,18.695295,OK
+48,Bingo,Bingo Bosanska poljana,Bosanska poljana bb,Tuzla,44.5110311,18.5806164,OK
+49,Bingo,Bingo PJ 035 Kiseljak,Ševar bb,Tuzla,44.51388483487349,18.58434239985757,MANUAL
+50,Bingo,Bingo Hipermarket PJ 18,Cesta M-17 5,Mostar,43.36527876538334,17.82336068015692,MANUAL
+51,Bingo,Bingo Zalik,Muje Pašića bb,Mostar,43.3546061,17.8136908,OK
+52,Bingo,Tržni Centar Bingo / Retail Bingo,Cesta M-17,Mostar,43.391527125816694,17.83164332760306,MANUAL
+53,Bingo,Hipermarket 2 Mostar,Bišće polje bb,Mostar,43.3106499,17.8312677,OK
+54,Bingo,Bingo Hipermarket PJ 075,Kakanjska bb,Visoko,44.000301359404844,18.16217182437833,MANUAL
+55,Bingo,Bingo Visoko,Visoko bb,Visoko,44.0011676,18.17666,OK
+56,Bingo,Hipermarket Kakanj,Alije Izetbegovića 37,Kakanj,44.1307265,18.1205623,OK
+57,Bingo,Bingo Breza PJ 49 / Hipermarket Breza,Potkraj bb,Breza,44.0015167,18.256247,OK
+58,Bingo,Hipermarket Bingo Bukva Tešanj,Bukva 128,Tešanj,44.6215686,17.9966974,OK
+59,Bingo,Bingo Hypermarket Maglaj,Maglaj bb,Maglaj,44.5478663,18.0913197,OK
+60,Bingo,Minimarket Vozuća,Vozuća bb,Zavidovići,44.3790111,18.3604339,OK
+61,Bingo,Hipermarket Doboj-Jug,Matuzići bb,Doboj Jug,44.7004369,18.0634147,OK
+62,Bingo,Hipermarket Bingo Banja Luka (Bingo Plus),Branka Popovića 41,Banja Luka,44.8079698,17.2094536,OK
+63,Bingo,Bingo Hipermarket 3 (TC Džananović / Zenica City Center),Kamberovića čikma bb,Zenica,44.2080174,17.9182179,OK
+64,Bingo,Bingo Zenica (TC Zenica / Lukovo Polje),Goraždanska bb,Zenica,44.1918053,17.9329391,OK
+65,Bingo,Bingo 17 (Supermarket Crkvice),Crkvice 3,Zenica,44.201959,17.9216389,OK
+66,Bingo,Bingo 22 (Supermarket Travnička),Travnička cesta bb,Zenica,44.2003222,17.900817,OK
+67,Bingo,Bingo Minimarket Zenica,Ćire Truhelke 8,Zenica,44.1947063,17.9291737,OK
+68,Bingo,Bingo 268 (Minimarket 2 Zenica),ZAVNOBiH-a 86 / 88,Zenica,44.237274,17.8901722,OK
+69,Bingo,Bingo (Hipermarket 2 / TC Hipermarket Bihać),Žrtava srebreničkog genocida bb,Bihać,44.8168159,15.8503674,OK
+70,Bingo,Hipermarket Bihać 3,Ul. Nositelja hrvatskog trolista bb,Bihać,44.822851552432844,15.86411834545895,MANUAL
+71,Bingo,Bingo Supermarket PJ 227 (kod bolnice),Darivalaca krvi 39,Bihać,44.8100147,15.860691,OK
+72,Bingo,Bingo Supermarket Harmani,Ešrefa Kovačevića (Harmani) bb,Bihać,44.8112659,15.8660271,OK
+73,Bingo,Bingo 225 (SM Ozimice 1),Sarajevska bb (Ozimice 1),Bihać,44.8136918,15.8640497,OK
+74,Bingo,Bingo 229 (Minimarket / Supermarket Ozimice 2),Trg zlatnih ljiljana bb (Ozimice 2),Bihać,44.8123956,15.859649,OK
+75,Bingo,Minimarket Bihać,Ul. Vasif Bega Bišćevića 32,Bihać,44.82659463546834,15.879372207373024,MANUAL
+76,Bingo,TC Brčko (Bingo PJ 037),Braće Ćuskića 10,Brčko,44.8639368,18.8088578,OK
+77,Bingo,Bingo Hipermarket 2 Brčko (PJ 135),Bulevar mira 5,Brčko,44.8763149,18.8121954,OK
+78,Bingo,Bingo Brčko (Grčica),Desanke Maksimović bb,Brčko,44.8738503,18.8152368,OK
+79,Bingo,TC Travnik (Bingo Hipermarket br. 78),Aleja Konzula bb,Travnik,44.2275595,17.6526928,OK
+80,Bingo,Minimarket Travnik,Ul. Šehida br. 3,Travnik,44.226226688192504,17.648135014773178,MANUAL
+81,Bingo,Supermarket Turbe,Bosanska bb - Turbe,Travnik,44.24108246885328,17.577984210901686,MANUAL
+82,Bingo,TC Hipermarket Bijeljina,Cara Uroša 54,Bijeljina,44.76075,19.2051544,OK
+83,Bingo,Supermarket Bijeljina 1 (PJ 140 / TC Emporium),Trg Kralja Petra I Karađorđevića 1,Bijeljina,44.7575305,19.2181302,OK
+84,Bingo,Hipermarket Bijeljina 2 / 3 (PJ 213),Stefana Dečanskog bb,Bijeljina,44.767541,19.1615293,OK
+85,Bingo,Bingo Hipermarket 252 (Janja),Bijeljinska 300 - Janja,Bijeljina,44.6547478,19.2455504,OK
+86,Bingo,Bingo Janja,Karađorđeva 201 - Janja,Bijeljina,44.66457056307968,19.249451835086695,MANUAL
+87,Bingo,Bingo City Center Gračanica (TC Gračanica / PJ br. 9),Branilaca kule grada bb (Branilaca grada 23),Gračanica,44.6895405,18.3077611,OK
+88,Bingo,Supermarket Gračanica (Bingo 151),Gračaničkih gazija bb,Gračanica,44.6918508,18.2960473,OK
+89,Bingo,TC Gradačac (Hipermarket Gradačac / PJ br. 10),Sarajevska bb,Gradačac,44.8851316,18.420257,OK
+90,Bingo,Supermarket Gradačac,Trg Alije Izetbegovića 1,Gradačac,44.8778658,18.4268401,OK
+91,Bingo,Hipermarket TC Lukavac (PJ 15),Lukavačkih brigada bb,Lukavac,44.5347675,18.5341703,OK
+92,Bingo,Supermarket Lukavac (Bingo 93),Armije BiH bb (Trg Bremena),Lukavac,44.5303124,18.5374111,OK
+93,Bingo,Minimarket Lukavac (PJ 68),Sarajevska br. 7,Lukavac,44.5359696,18.5295457,OK
+94,Bingo,TC Bingo Živinice (Hipermarket Živinice / PJ 28),Prva ulica br. 121 (Prva ulica bb),Živinice,44.45802077384057,18.641920949012853,MANUAL
+95,Bingo,Supermarket Živinice (PJ 243),Druga ulica br. 15 (Druga ulica bb),Živinice,44.45736555881022,18.642264271765722,MANUAL
+96,Bingo,Supermarket Donje Dubrave,Dubrave Donje bb,Živinice,44.4827446,18.6790533,OK
+97,Bingo,Minimarket Gornje Dubrave,Gornje Dubrave bb,Živinice,44.4625583,18.7244431,OK
+98,Bingo,Minimarket Gornje Živinice,Gornje Živinice bb,Živinice,44.4625583,18.7244431,OK
+99,Bingo,Minimarket Litve,Živiničke ose bb,Živinice,44.43696381060834,18.650159242793876,MANUAL
+100,Bingo,Minimarket Živinice,Živinice bb,Živinice,44.4625583,18.7244431,OK
+101,Bingo,TC Hipermarket Bugojno (PJ 121),Ul. Ciglane I bb,Bugojno,44.05490716926729,17.435894853686495,MANUAL
+102,Bingo,Supermarket Bugojno (PJ 221),Šehitluci br. 1,Bugojno,44.05649355203929,17.44915543097774,MANUAL
+103,Bingo,TC Hipermarket Goražde (PJ 123),Ul. Rabite bb,Goražde,43.65964307536029,18.97544843913107,MANUAL
+104,Bingo,Supermarket Goražde (PJ 141),Ul. Ferida Dizdarevića br. 4,Goražde,43.66457452715435,18.975917093534434,MANUAL
+105,Bingo,Bingo Plus / Hipermarket Trebinje,Tini bb (Kolubarska),Trebinje,42.7024679,18.3512582,OK
+106,Bingo,Bingo Mall Trebinje / Hipermarket Trebinje 2 (PJ 167),Zasad polje bb,Trebinje,42.7133128,18.3279574,OK
